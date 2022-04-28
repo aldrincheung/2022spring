@@ -1,5 +1,28 @@
 # Midterm Congergate
 
+- [Week 1: The Business Case for Diversity](#week-1-the-business-case-for-diversity)
+  - [Marshall Goldsmith](#marshall-goldsmith)
+  - [Phillips](#phillips)
+  - [Page](#page)
+- [Week 2: Unconscious Bias, In-group Favoritism, Social Identity Theory](#week-2-unconscious-bias-in-group-favoritism-social-identity-theory)
+  - [Sucher](#sucher)
+  - [Charlesworth and Banaji](#charlesworth-and-banaji)
+  - [Banaji, Bazermar and Chugh](#banaji-bazermar-and-chugh)
+  - [Geert Hofstede](#geert-hofstede)
+  - [Henry Tajfel and John Turner](#henry-tajfel-and-john-turner)
+- [Week 3: Diverse Teams at Work](#week-3-diverse-teams-at-work)
+  - [Pentland](#pentland)
+  - [Six Common Misperceptions about Teamwork (Hackman)](#six-common-misperceptions-about-teamwork-hackman)
+  - [Cardona, Miller (Work Teams)](#cardona-miller-work-teams)
+- [Week 4: Understand Before You are Understood: Psychological Safety](#week-4-understand-before-you-are-understood-psychological-safety)
+  - [Edmondson, Roloff (Psycological Saftey)](#edmondson-roloff-psycological-saftey)
+- [Week 5: Personality Matters](#week-5-personality-matters)
+  - [Vicksberg](#vicksberg)
+- [Slides](#slides)
+- [Appendix](#appendix)
+
+<br/><br/>
+
 ### Week 1: The Business Case for Diversity
 #### Marshall Goldsmith
 |idea|detail|
