@@ -23,15 +23,23 @@
 <br/>
 
 ### Week 2: Unconscious Bias, In-group Favoritism, Social Identity Theory
+- 4 Sources of Unintentional Bias
+  - Bias that favors one's own group
+  - Implicit ofrms of prejudice
+  - Conflict of interest
+  - Tendency to over claim credit
+- Solutions: Be Vigilance
+  
 #### Sucher
 |idea|detail|
 |---|---|
-|findings from social science research|1. Social categorization and stereotyping are fundamental psychological processes<br/>Stereotypes are "social constructs"<br/>We hold unconscious and impliciet associations<br/>stereotyping and implicit biases can impact behavior<br/>Individuals can experience different realities at work<br/>Stereotype threat - anticipate & conform to stereotypes|
+|findings from social science research|1. Social categorization and stereotyping are fundamental psychological processes<br/>Stereotypes are "social constructs"<br/>We hold unconscious and impliciet associations<br/>stereotyping and implicit biases can impact behavir<br/>Individuals can experience different realities at work<br/>Stereotype threat - anticipate & conform to stereotypes|
 
 #### Charlesworth and Banaji
 |idea|detail|
 |---|---|
 |implicit bias|With IAT (Implicit Association Test) data show that implicit biases changes over time (for the better or worse)|
+|in-group favoritism| we noramlly feel more comfortable with people we think have overlap group identities with us|
 
 #### Banaji, Bazermar and Chugh
 |idea|detail|
@@ -53,16 +61,73 @@
 
 ### Week 3: Diverse Teams at Work
 
+#### Pentland
+|idea|detail|
+|---|---|
+|experiment method|equip members in teams with electronic badge wearable to collect data about their body language, tone of voice. Extract patterns of communication, reveals how people interact|
+|dimensions of communication|1. Energy<br/>2. Engagement<br/>3. Exploration<br/>having feedback on these categories allow team members to discuss problems in communciation|
+|give specific feedback|Giving specific feedback to team members in graphical form can specifically fine tune communication habit of individuals, yielding improvment in the end-product|
+
+#### Six Common Misperceptions about Teamwork (Hackman)
+- Harmony helps
+- It's good having new members (good to mix up)
+- Bigger is better (more resource)
+- Face-to-Face interaction is old news
+- It all depends on the leader
+- Teamwork is magical (all needed is talented teammates)
+
+#### Cardona, Miller (Work Teams)
+|idea|detail|
+|---|---|
+|factors to makes a teamTeam|1. individual members do not take responsiblity for the whole result<br/>2. a small number of people with complementary skills who are committed to a common purpose (5-7 people)|
+|right mix of people|a team benefits from the complementarity of its members|
+|stages to team development|forming, storming, norming, and performing|
+|Carmill Model of Team Development|constructive (shared objectives, trust building ) and destructive cycles<br/>![](src/carmillModel.png)|
+|guidelines for team meetings|1. right amount of meetings<br/>2. meetings should have a respected start and end time<br/>3. should have a well thought out agenda<br/>4. to be effective and productive as possible<br/>5. everyone should speak up and be engaged|
+|three styles of leadership|1. transactional leader<br/>2. transforming leader<br/>3. transcendent leader|
+
+|Elements of the decision making process|Constructive roles|Debilitating roles|
+|---|---|---|
+|Information gathering| Contributor|Doubter|
+|Discussion|Communicator|Distracted|
+|Evaluation|Questioner|Diplomat/Dmoniator|
+|Action plan|Collaborator|Defeatist|
+
 <br/>
 
 ### Week 4: Understand Before You are Understood: Psychological Safety
+- acid test (listener): "If you aren't willign to change your mind, you're not really listening"
+- acid test (speaker): "Words unheard were never spoken"
+- acid test (confronting): "Only confront when you want to grow closer"
+
+#### Edmondson, Roloff (Psycological Saftey)
+|idea|detail|
+|---|---|
+|Three Types of Diversity|1. Separation Diversity (timezone, phsycial location)<br/>2. Variety Diversity (difference in speciality)<br/>3. Disparity Diversity (social status, power)
+|google|"As long as everyone got a chacne to talk, the team did well. But if only one person or a small gorup spoke all the time ,the collective intelligence declined"|
+|how|positive team climate -> supportive, consultative behaviors and challenge their team|
+
 
 <br/>
 
 ### Week 5: Personality Matters
 
+#### Vicksberg
+|type|values|characteristics|
+|---|---|---|
+|Pioneers| *value possibilities* |  adaptable, energetic, exploratory, outgoing, novelty-seeking, expressive, spontaneous, creative, risk taking, brainstormers|
+|Drivers|  *value challenge/momentum* | determined, disciplined, willing to take risks, though and resolute, ambitious, intensely curious, competitive, goal-oriented, logical and experimental|
+|Integrators| *value connection* |  values relationships, gonsensus oriented, diplomatic, empathic, traditional, intrinsically motivated, non-confrontational, contextual, trusting, optimistic|
+|Guardians| *value stability* | methodical, controlled, detail oriented, respected, meticulous, realistic, planners, risk averse, reserved, conventional|
 
 <br/>
+
+### Slides
+
+![](src/googleWayOfTeaming.png)  
+![](src/psychological%20safety%20vs%20accountability%20for%20resulss.png)  
+
+
 
 #### Appendix
 - Readings
