@@ -23,7 +23,10 @@
 <br/>
 
 ### Conditional Probability and Independence
-
+|method|detail|
+|---|---|
+|conditional probability|$P(E|F)=\cfrac{P(E\cap F)}{P(F)}$|
+|Bayes Theorem|$P(B_i|A) = \cfrac{P(B_i) P(A|B_i)}{\sum^k_{j=1} P(B_j) P(A|B_j)}$|
 
 <br/>
 
